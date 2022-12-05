@@ -16,3 +16,13 @@ Banks typically require a borrower to have good or excellent credit (690 or high
 Cash loan is a type of personal loan which requires minimum documentation and the approval process is quick and speedy. The method is minimal and convenient compared to the traditional bank loans. Cash loans are also termed as personal loan, instant loan, money loan or quick loan.
 
 Revolving loan facility is a form of credit issued by a financial institution that provides the borrower with the ability to draw down or withdraw, repay, and withdraw again. A revolving loan is considered a flexible financing tool due to its repayment and re-borrowing accommodations. It is not considered a term loan because, during an allotted period of time, the facility allows the borrower to repay the loan or take it out again. In contrast, a term loan provides a borrower with funds followed by a fixed payment schedule.
+
+# Accuracy score of various machine learning algorithms used are:
+
+1- KNN - 68%
+
+2- Logistic Regression- 63%
+
+3- Decision Tree (Entropy) - 92%
+
+4- Decision Tree with hyperparameter GSCV - 89%
